@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Bnode.h
+Elem.h
+../include/Elem.h
+
+../include/Btree.h
+Bnode.h
+../include/Bnode.h
+iostream
+-
+
+../include/Elem.h
+
+C:/Users/dang khoa/Desktop/Btree/src/main.cpp
+iostream
+-
+Btree.h
+C:/Users/dang khoa/Desktop/Btree/src/Btree.h
+

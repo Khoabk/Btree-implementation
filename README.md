@@ -4,4 +4,4 @@ commands sush as insert or delete along with the value to be inserted or deleted
 with a dot file for btree display will be generated at the end.
 
 To run the program, simply download the code with the make file and type **run_command.txt**, the command.txt file is
-the file in which command are stored. You can modify run_command.txt or import your own input file.
+the file in which commands are stored. You can modify run_command.txt or import your own input file.
